@@ -17,3 +17,10 @@ Pulse implements a reactive monitoring loop. Pulse polls the OS for memory and C
 - Runtime: Node.js
 - Core Modules: os (hardware interfacing), fs(asyn I/O), process(stdout control)
 - Logic: Event-loop scheduling, data buffering and performace threshold.
+
+# Usage
+
+1. clone repo
+2. npm install
+3. run npx tsc
+4. run npm run dev
