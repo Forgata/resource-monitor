@@ -1,0 +1,29 @@
+{
+  "name": "resource-monitor",
+  "version": "1.0.0",
+  "description": "A real-time resource monitor that monitors RAM, CPU usage and formats into a log and alerts on spike",
+  "keywords": [
+    "resource",
+    "monitor",
+    "RAM",
+    "CPU"
+  ],
+  "homepage": "https://github.com/Forgata/resource-monitor#readme",
+  "bugs": {
+    "url": "https://github.com/Forgata/resource-monitor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Forgata/resource-monitor.git"
+  },
+  "license": "MIT",
+  "author": "Forgata",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
