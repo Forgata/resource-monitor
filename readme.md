@@ -1,4 +1,4 @@
-# Resource Monitor
+# Pulse
 
 This is a node.js based resource monitor that utilises the native 'os' module in node.js to access system resource usage i.e. RAM, CPU etc. It provides real-time hardware performace, averaging and automated alerting.
 
